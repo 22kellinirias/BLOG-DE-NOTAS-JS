@@ -1,0 +1,28 @@
+.ocultar {
+  opacity: 0;
+}
+
+h1{
+  background: -webkit-linear-gradient(rgb(18, 19, 18), rgb(34, 146, 127),rgb(196, 7, 7));
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ text-align: center;
+ font-size: xx-large;
+}
+#main{
+  background: rgb(63,94,251);
+  background: -moz-radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(89,91,231,1) 14%, rgba(87,209,189,1) 29%, rgba(160,168,136,1) 50%, rgba(252,70,107,0.5914740896358543) 100%);
+  background: -webkit-radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(89,91,231,1) 14%, rgba(87,209,189,1) 29%, rgba(160,168,136,1) 50%, rgba(252,70,107,0.5914740896358543) 100%);
+  background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(89,91,231,1) 14%, rgba(87,209,189,1) 29%, rgba(160,168,136,1) 50%, rgba(252,70,107,0.5914740896358543) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3f5efb",endColorstr="#fc466b",GradientType=1);
+}
+
+hr{
+  width: 26%;
+}
+body{
+  color:black ;
+  font-size: x-large;
+  font-style: italic;
+  text-align: center;
+}
